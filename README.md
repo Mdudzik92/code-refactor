@@ -5,7 +5,7 @@ HTML:
 <p>-31 Changed div class to div id</p>
 <p>-32 changed div id to nav id, then 38 from /div to /nav</p>
 <p>-41 Changed class to "float-left" from "float-right"</p>
-<p>-62 & 70 - added </img> and closed out <img src=""> element</p>
+<p>-62 & 70 - added image tags</p>
 
 CSS:
 
